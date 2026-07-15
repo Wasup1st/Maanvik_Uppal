@@ -7,7 +7,7 @@ Replace the example text with your own information.
 If you do not have a link yet, leave that section as an empty list: []
  */
 const studentProfile = {
-  name: "Maanvik Uppal",
+  name: "Maanvik Uppa",
   tagline: "DREAM-High Scholar | Neuroscience and Computational Biology Researcher",
   bio: "I am a student researcher interested in neuroscience, computational biology, biomedical engineering, and public health. I hope to pursue a career in neurology and explore how computational tools and biological data can improve our understanding of neurological diseases. Through DREAM-High, I am excited to strengthen my skills in R, data analysis, and scientific research while learning how computational methods can uncover patterns in complex biological data. I am especially interested in neurodegenerative diseases and the intersection of medicine, biology, and technology.",
   /*
